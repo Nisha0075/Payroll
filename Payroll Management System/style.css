@@ -1,0 +1,90 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.theme-color{
+    color: #155AD9;
+}
+
+.theme-bg{
+    background-color: #155AD9;
+}
+
+.theme-btn{
+    background-color: #155AD9;
+    color: #F7F7F7;
+}
+.theme-btn:hover{
+    background-color: #155AD9;
+    color: #F7F7F7;
+}
+
+.login-header{
+    color: #0D0954;
+    font-weight: 600;
+}
+
+.brand-light{
+    color: #FFFFFF;
+    font-weight: 500;
+}
+.brand-light:hover{
+    color: #FFFFFF;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url("images/bgg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-card{
+    background-color: #FFFFFF;
+}
+
+ .login-btn{
+     background-color: #155AD9;
+     color: white;
+ }
+ .login-btn:hover{
+     color: white;
+ }
+
+ /* Dashboard */
+
+ .logout-btn{
+     color: #FFFFFF;
+     border: 1px solid #3AB4F3;
+     background-color: #3AB4F3;
+ }
+
+ .logout-btn:hover{
+    color: #FFFFFF;
+    border: 1px solid #3AB4F3;
+    background-color: #66c9ff;
+}
+
+.action-btn{
+    background-color: #155AD9;
+    color: white;
+}
+
+.action-btn:hover{
+    background-color: #6A51E4;
+    color: white;
+}
+
+.fa-plus-square{
+    color: white;
+}
+
+/* Add Books */
+
+.form-header{
+    background-color: #F7F7F7;
+    color: #3F3D56;
+    font-weight: 500;
+}
